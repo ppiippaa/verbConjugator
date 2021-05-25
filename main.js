@@ -92,3 +92,4 @@ resetButton.onclick = function() {
     personBox.innerHTML = randomPerson;
     verbBox.innerHTML = randomVerb;
 }
+
